@@ -1,0 +1,8 @@
+*.o
+*.bar
+*.qm
+arm
+assets/.assets.index
+.directory
+.cproject
+config.pri
