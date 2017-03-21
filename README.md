@@ -1,6 +1,4 @@
 # Titan Files
 A BlackBerry 10 application for encrypting files.
 
-Developed by: Philip Kirkbride, Taylor Brynes, and Gyubok Baik in 2013.
-
-Read more: http://crackberry.com/titan-files-blackberry-10
+[CrackBerry Article](http://crackberry.com/titan-files-blackberry-10)
